@@ -1,0 +1,1 @@
+ALTER TABLE `crew_members` ADD `archived_at` text;

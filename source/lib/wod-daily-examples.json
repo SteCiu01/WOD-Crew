@@ -1,0 +1,649 @@
+{
+  "retrievedOn": "2026-10-21",
+  "scope": "Selected official daily WODs filling EMOM and Tabata gaps; not the complete daily archive. Descriptive titles are app labels; dates identify the original posts.",
+  "examples": [
+    {
+      "id": "crossfit-daily-2024-05-03",
+      "name": "Snatch progression EMOM · 2024-05-03",
+      "sourceUrl": "https://www.crossfit.com/workout/2024/05",
+      "family": [
+        "daily"
+      ],
+      "measure": "weight",
+      "prescription": [
+        "Every minute on the minute for 20 minutes:",
+        "Minutes 1–5, light load: 1 snatch pull + 1 hang power snatch + 1 overhead squat.",
+        "Minutes 6–10, light load: 1 snatch pull + 1 low-hang snatch.",
+        "Minutes 11–20: 1 snatch pull + 1 squat snatch; add weight only while maintaining sound movement.",
+        "Log the weights used and any session notes."
+      ],
+      "loads": [],
+      "firstPosted": "2024-05-03",
+      "timer": {
+        "mode": "emom",
+        "label": "20 one-minute intervals · 5 / 5 / 10-minute snatch progression",
+        "segments": [
+          {
+            "rounds": 5,
+            "exercises": [
+              "1 snatch pull",
+              "1 hang power snatch",
+              "1 overhead squat"
+            ],
+            "flow": "together",
+            "restAfter": 0
+          },
+          {
+            "rounds": 5,
+            "exercises": [
+              "1 snatch pull",
+              "1 low-hang snatch"
+            ],
+            "flow": "together",
+            "restAfter": 0
+          },
+          {
+            "rounds": 10,
+            "exercises": [
+              "1 snatch pull",
+              "1 squat snatch"
+            ],
+            "flow": "together",
+            "restAfter": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": "crossfit-daily-2024-05-17",
+      "name": "Burpee / pull-up / wall-ball EMOM · 2024-05-17",
+      "sourceUrl": "https://www.crossfit.com/workout/2024/05",
+      "family": [
+        "daily"
+      ],
+      "measure": "reps",
+      "prescription": [
+        "Every minute on the minute, until failure or 15 minutes:",
+        "3 burpees",
+        "7 chest-to-bar pull-ups",
+        "11 wall-ball shots",
+        "Stop when a minute’s reps are unfinished at its end. Score the last minute completed in full."
+      ],
+      "loads": [
+        "♀ 14-lb ball, 9-foot target",
+        "♂ 20-lb ball, 10-foot target"
+      ],
+      "firstPosted": "2024-05-17",
+      "timer": {
+        "mode": "emom",
+        "label": "Up to 15 one-minute intervals · end the timer on failure",
+        "segments": [
+          {
+            "rounds": 15,
+            "exercises": [
+              "3 burpees",
+              "7 chest-to-bar pull-ups",
+              "11 wall-ball shots"
+            ],
+            "flow": "together",
+            "restAfter": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": "crossfit-daily-2024-06-04",
+      "name": "Clean & jerk ladder EMOM · 2024-06-04",
+      "sourceUrl": "https://www.crossfit.com/workout/2024/06",
+      "family": [
+        "daily"
+      ],
+      "measure": "weight",
+      "prescription": [
+        "5-minute EMOM: 5 touch-and-go clean and jerks each minute.",
+        "Rest 1 minute.",
+        "5-minute EMOM: 3 touch-and-go clean and jerks each minute.",
+        "Rest 1 minute.",
+        "5-minute EMOM: 1 clean and jerk each minute.",
+        "Add weight from minute to minute as capacity allows; log the maximum load from each EMOM."
+      ],
+      "loads": [],
+      "firstPosted": "2024-06-04",
+      "timer": {
+        "mode": "emom",
+        "label": "3 × 5-minute EMOMs · 1-minute recovery between blocks",
+        "segments": [
+          {
+            "rounds": 5,
+            "exercises": [
+              "5 touch-and-go clean and jerks"
+            ],
+            "flow": "together",
+            "restAfter": 60
+          },
+          {
+            "rounds": 5,
+            "exercises": [
+              "3 touch-and-go clean and jerks"
+            ],
+            "flow": "together",
+            "restAfter": 60
+          },
+          {
+            "rounds": 5,
+            "exercises": [
+              "1 clean and jerk"
+            ],
+            "flow": "together",
+            "restAfter": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": "crossfit-daily-2024-07-01",
+      "name": "Clean / HSPU / rope / row EMOM · 2024-07-01",
+      "sourceUrl": "https://www.crossfit.com/workout/2024/07",
+      "family": [
+        "daily"
+      ],
+      "measure": "reps",
+      "prescription": [
+        "Every minute on the minute for 20 minutes:",
+        "Minute 1: 6 clean and jerks",
+        "Minute 2: 12 strict handstand push-ups",
+        "Minute 3: 60 double-unders",
+        "Minute 4: 14/18-calorie row (♀/♂)",
+        "Complete the four-minute sequence 5 times."
+      ],
+      "loads": [
+        "♀ 95-lb barbell",
+        "♂ 135-lb barbell"
+      ],
+      "firstPosted": "2024-07-01",
+      "timer": {
+        "mode": "emom",
+        "label": "20 minutes · 5 cycles of 4 alternating stations",
+        "segments": [
+          {
+            "rounds": 20,
+            "exercises": [
+              "6 clean and jerks",
+              "12 strict handstand push-ups",
+              "60 double-unders",
+              "14/18-calorie row (♀/♂)"
+            ],
+            "flow": "rotate",
+            "restAfter": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": "crossfit-daily-2024-07-27",
+      "name": "Step-up / shuttle EMOM · 2024-07-27",
+      "sourceUrl": "https://www.crossfit.com/workout/2024/07",
+      "family": [
+        "daily"
+      ],
+      "measure": "reps",
+      "prescription": [
+        "Every minute on the minute for 40 minutes:",
+        "Odd minutes: 20 step-ups",
+        "Even minutes: 5 × 50-foot recovery shuttle runs",
+        "Shuttle distance: 25 feet out plus 25 feet back, without added weight. Use an available rucksack for step-ups."
+      ],
+      "loads": [
+        "♀ 20-inch box, 30-lb ruck",
+        "♂ 20-inch box, 45-lb ruck"
+      ],
+      "firstPosted": "2024-07-27",
+      "timer": {
+        "mode": "emom",
+        "label": "40 minutes · alternate step-ups and unweighted recovery shuttles",
+        "segments": [
+          {
+            "rounds": 40,
+            "exercises": [
+              "20 step-ups",
+              "5 × 50-foot recovery shuttle runs"
+            ],
+            "flow": "rotate",
+            "restAfter": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": "crossfit-daily-2024-09-27",
+      "name": "Wall-ball / box / deadlift / rings EMOM · 2024-09-27",
+      "sourceUrl": "https://www.crossfit.com/workout/2024/09",
+      "family": [
+        "daily"
+      ],
+      "measure": "reps",
+      "prescription": [
+        "Every minute on the minute for 15 minutes:",
+        "Minute 1: 20 wall-ball shots",
+        "Minute 2: 15 box jumps",
+        "Minute 3: 10 deadlifts",
+        "Minute 4: Max ring muscle-ups",
+        "Minute 5: Rest",
+        "Complete the five-minute sequence 3 times; score the sum of ring muscle-ups."
+      ],
+      "loads": [
+        "♀ 14-lb ball to 9 feet, 20-inch box",
+        "♂ 20-lb ball to 10 feet, 24-inch box",
+        "Deadlift: 55% of 1-rep max"
+      ],
+      "firstPosted": "2024-09-27",
+      "timer": {
+        "mode": "emom",
+        "label": "15 minutes · 3 cycles of 4 stations + 1-minute rest",
+        "segments": [
+          {
+            "rounds": 4,
+            "exercises": [
+              "20 wall-ball shots",
+              "15 box jumps",
+              "10 deadlifts",
+              "Max ring muscle-ups"
+            ],
+            "flow": "rotate",
+            "restAfter": 60
+          },
+          {
+            "rounds": 4,
+            "exercises": [
+              "20 wall-ball shots",
+              "15 box jumps",
+              "10 deadlifts",
+              "Max ring muscle-ups"
+            ],
+            "flow": "rotate",
+            "restAfter": 60
+          },
+          {
+            "rounds": 4,
+            "exercises": [
+              "20 wall-ball shots",
+              "15 box jumps",
+              "10 deadlifts",
+              "Max ring muscle-ups"
+            ],
+            "flow": "rotate",
+            "restAfter": 60
+          }
+        ]
+      }
+    },
+    {
+      "id": "crossfit-daily-2015-12-06",
+      "name": "Push press / sit-up / pull / push-up Tabata · 2015-12-06",
+      "sourceUrl": "https://www.crossfit.com/workout/2015/12",
+      "family": [
+        "daily"
+      ],
+      "measure": "reps",
+      "prescription": [
+        "Tabata Push press",
+        "Tabata Sit-up",
+        "Tabata Sumo deadlift high pull",
+        "Tabata Push-up",
+        "Per movement: 8 efforts with 20 seconds of work / 10 seconds of recovery.",
+        "Change movements after the final interval’s rest; add no extra recovery.",
+        "Score: add the reps from every interval."
+      ],
+      "loads": [
+        "75-lb barbell for push presses and sumo deadlift high pulls"
+      ],
+      "firstPosted": "2015-12-06",
+      "timer": {
+        "mode": "tabata",
+        "label": "4 × 8 intervals · 20s / 10s · no extra recovery",
+        "segments": [
+          {
+            "rounds": 8,
+            "exercises": [
+              "Push press"
+            ],
+            "flow": "together",
+            "restAfter": 0
+          },
+          {
+            "rounds": 8,
+            "exercises": [
+              "Sit-up"
+            ],
+            "flow": "together",
+            "restAfter": 0
+          },
+          {
+            "rounds": 8,
+            "exercises": [
+              "Sumo deadlift high pull"
+            ],
+            "flow": "together",
+            "restAfter": 0
+          },
+          {
+            "rounds": 8,
+            "exercises": [
+              "Push-up"
+            ],
+            "flow": "together",
+            "restAfter": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": "crossfit-daily-2015-12-10",
+      "name": "Squat / deadlift Tabata · 2015-12-10",
+      "sourceUrl": "https://www.crossfit.com/workout/2015/12",
+      "family": [
+        "daily"
+      ],
+      "measure": "reps",
+      "prescription": [
+        "Tabata Squat",
+        "Tabata Deadlift",
+        "Tabata Squat",
+        "Tabata Deadlift",
+        "Per movement: 8 efforts with 20 seconds of work / 10 seconds of recovery.",
+        "Change movements after the final interval’s rest; add no extra recovery.",
+        "Score: add the reps from every interval."
+      ],
+      "loads": [
+        "155-lb deadlift"
+      ],
+      "firstPosted": "2015-12-10",
+      "timer": {
+        "mode": "tabata",
+        "label": "4 × 8 intervals · 20s / 10s · no extra recovery",
+        "segments": [
+          {
+            "rounds": 8,
+            "exercises": [
+              "Squat"
+            ],
+            "flow": "together",
+            "restAfter": 0
+          },
+          {
+            "rounds": 8,
+            "exercises": [
+              "Deadlift"
+            ],
+            "flow": "together",
+            "restAfter": 0
+          },
+          {
+            "rounds": 8,
+            "exercises": [
+              "Squat"
+            ],
+            "flow": "together",
+            "restAfter": 0
+          },
+          {
+            "rounds": 8,
+            "exercises": [
+              "Deadlift"
+            ],
+            "flow": "together",
+            "restAfter": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": "crossfit-daily-2017-11-07",
+      "name": "Squat / holds / rings / row Tabata · 2017-11-07",
+      "sourceUrl": "https://www.crossfit.com/workout/2017/11",
+      "family": [
+        "daily"
+      ],
+      "measure": "reps",
+      "prescription": [
+        "Tabata Back squat",
+        "Rest 1 minute.",
+        "Tabata L-sit",
+        "Rest 1 minute.",
+        "Tabata Ring rows",
+        "Rest 1 minute.",
+        "Tabata Handstand hold",
+        "Rest 1 minute.",
+        "Tabata Row",
+        "Per movement: 8 efforts with 20 seconds of work / 10 seconds of recovery.",
+        "Add one minute of recovery between movements.",
+        "Log a separate total per movement: reps, hold seconds for L-sit and handstand, or rowing calories."
+      ],
+      "loads": [
+        "95-lb back squat"
+      ],
+      "firstPosted": "2017-11-07",
+      "timer": {
+        "mode": "tabata",
+        "label": "5 × 8 intervals · 20s / 10s · extra 1-minute recoveries",
+        "segments": [
+          {
+            "rounds": 8,
+            "exercises": [
+              "Back squat"
+            ],
+            "flow": "together",
+            "restAfter": 60
+          },
+          {
+            "rounds": 8,
+            "exercises": [
+              "L-sit"
+            ],
+            "flow": "together",
+            "restAfter": 60
+          },
+          {
+            "rounds": 8,
+            "exercises": [
+              "Ring rows"
+            ],
+            "flow": "together",
+            "restAfter": 60
+          },
+          {
+            "rounds": 8,
+            "exercises": [
+              "Handstand hold"
+            ],
+            "flow": "together",
+            "restAfter": 60
+          },
+          {
+            "rounds": 8,
+            "exercises": [
+              "Row"
+            ],
+            "flow": "together",
+            "restAfter": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": "crossfit-daily-2022-09-19",
+      "name": "Dumbbell / lunge / ring dip Tabata · 2022-09-19",
+      "sourceUrl": "https://www.crossfit.com/workout/2022/09",
+      "family": [
+        "daily"
+      ],
+      "measure": "reps",
+      "prescription": [
+        "Tabata Dumbbell shoulder presses",
+        "Tabata Weighted jumping lunges",
+        "Tabata Ring dips",
+        "Tabata Weighted walking lunges",
+        "Tabata Dumbbell push presses",
+        "Per movement: 8 efforts with 20 seconds of work / 10 seconds of recovery.",
+        "Change movements after the final interval’s rest; add no extra recovery.",
+        "Score each movement separately by summing its interval reps."
+      ],
+      "loads": [
+        "♀ 25-lb dumbbells",
+        "♂ 35-lb dumbbells"
+      ],
+      "firstPosted": "2022-09-19",
+      "timer": {
+        "mode": "tabata",
+        "label": "5 × 8 intervals · 20s / 10s · no extra recovery",
+        "segments": [
+          {
+            "rounds": 8,
+            "exercises": [
+              "Dumbbell shoulder presses"
+            ],
+            "flow": "together",
+            "restAfter": 0
+          },
+          {
+            "rounds": 8,
+            "exercises": [
+              "Weighted jumping lunges"
+            ],
+            "flow": "together",
+            "restAfter": 0
+          },
+          {
+            "rounds": 8,
+            "exercises": [
+              "Ring dips"
+            ],
+            "flow": "together",
+            "restAfter": 0
+          },
+          {
+            "rounds": 8,
+            "exercises": [
+              "Weighted walking lunges"
+            ],
+            "flow": "together",
+            "restAfter": 0
+          },
+          {
+            "rounds": 8,
+            "exercises": [
+              "Dumbbell push presses"
+            ],
+            "flow": "together",
+            "restAfter": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": "crossfit-daily-2025-04-08",
+      "name": "Deadlift / box jump-over Tabata · 2025-04-08",
+      "sourceUrl": "https://www.crossfit.com/workout/2025/04",
+      "family": [
+        "daily"
+      ],
+      "measure": "reps",
+      "prescription": [
+        "Tabata Deadlifts",
+        "Tabata Box jump-overs",
+        "Per movement: 8 efforts with 20 seconds of work / 10 seconds of recovery.",
+        "Change movements after the final interval’s rest; add no extra recovery.",
+        "Score: add the reps from every interval."
+      ],
+      "loads": [
+        "♀ 125-lb barbell, 20-inch box",
+        "♂ 185-lb barbell, 24-inch box"
+      ],
+      "firstPosted": "2025-04-08",
+      "timer": {
+        "mode": "tabata",
+        "label": "2 × 8 intervals · 20s / 10s · no extra recovery",
+        "segments": [
+          {
+            "rounds": 8,
+            "exercises": [
+              "Deadlifts"
+            ],
+            "flow": "together",
+            "restAfter": 0
+          },
+          {
+            "rounds": 8,
+            "exercises": [
+              "Box jump-overs"
+            ],
+            "flow": "together",
+            "restAfter": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": "crossfit-daily-2025-10-28",
+      "name": "Row / sit-up / box Tabata · 2025-10-28",
+      "sourceUrl": "https://www.crossfit.com/workout/2025/10",
+      "family": [
+        "daily"
+      ],
+      "measure": "reps",
+      "prescription": [
+        "Tabata Calorie row",
+        "Tabata AbMat sit-ups",
+        "Tabata Box jumps",
+        "Tabata Calorie row",
+        "Per movement: 8 efforts with 20 seconds of work / 10 seconds of recovery.",
+        "Change movements after the final interval’s rest; add no extra recovery.",
+        "Score: add the reps from every interval."
+      ],
+      "loads": [
+        "♀ 20-inch box",
+        "♂ 24-inch box"
+      ],
+      "firstPosted": "2025-10-28",
+      "timer": {
+        "mode": "tabata",
+        "label": "4 × 8 intervals · 20s / 10s · no extra recovery",
+        "segments": [
+          {
+            "rounds": 8,
+            "exercises": [
+              "Calorie row"
+            ],
+            "flow": "together",
+            "restAfter": 0
+          },
+          {
+            "rounds": 8,
+            "exercises": [
+              "AbMat sit-ups"
+            ],
+            "flow": "together",
+            "restAfter": 0
+          },
+          {
+            "rounds": 8,
+            "exercises": [
+              "Box jumps"
+            ],
+            "flow": "together",
+            "restAfter": 0
+          },
+          {
+            "rounds": 8,
+            "exercises": [
+              "Calorie row"
+            ],
+            "flow": "together",
+            "restAfter": 0
+          }
+        ]
+      }
+    }
+  ],
+  "presentation": "Independent factual presentation by WOD Crew; source links identify the existing references. No fresh source verification is claimed."
+}

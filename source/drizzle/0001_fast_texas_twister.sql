@@ -1,0 +1,1 @@
+ALTER TABLE `workouts` ADD `archived_at` text;

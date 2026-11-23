@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "algorithm": "sha256",
+  "counts": {
+    "benchmarks": 399,
+    "daily": 12,
+    "total": 411,
+    "prescriptionLines": 2171,
+    "loadLines": 441,
+    "rewrittenLines": 158
+  },
+  "provenance": "Existing local snapshots; retrieval metadata is historical, not fresh verification.",
+  "files": {
+    "lib/wod-catalog.json": "7b7a35b3a8e194bd3cd2bccd0ddf566235a8e1acbdcc79207cf9908ea61ae830",
+    "lib/wod-daily-examples.json": "f927145fee75020927f3f7c9b2b322e227a7931873aec248348ecd122b088109",
+    "lib/catalog-review.json": "4c9b46ffdfe5e497aa6275812dffd3ed35b4b56b01c6c8c8771dbad46615bc62",
+    "lib/catalog.ts": "859d59dc1e5317ab2a39b32220ff4daeb8eeed10e927867b1f76181df8d1550d",
+    "lib/wod-examples.ts": "f91a6d552201ee18b99c100f79912c29757cd2207073aa4d0419972bb752dd69",
+    "lib/conversion-plans.json": "9d2afc0ca20b7dd41c1c1a0e9f3193d79cfb8f22b527c39cb5a1910c21f89956",
+    "lib/conversion-audit.json": "09ad07a7771329396e10549133a80500aa4a7bb83dbc91d7e522bcbf0af7c021",
+    "lib/conversion-review.mjs": "d31997f43921645fc8cde3e4a587dbee1795cd8f830bf2a702995ab68b571ee3",
+    "lib/workout.ts": "625fc53d7e0ab6c014715d1c4d26c43122a26ae4ef99fd7645545f5ae343560a",
+    "lib/language.ts": "7b639a5095b6dcea2b1d6367d68fe81aeef2c4fde86bbd1a5cfa32960fcb6ddc",
+    "app/components/WodExamples.tsx": "35369fac8561895f5404c021e2ac51d1b4ed898615dad2438faf6d462f41a58c"
+  },
+  "sha256": "5ce6b9b52dbb5541d300fb38a4b87da575fc201e536ff88b10958bd87b84f9a9"
+}

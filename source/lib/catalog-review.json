@@ -1,0 +1,798 @@
+{
+  "scope": "Line-by-line review of the existing local snapshot only; no source re-fetch or source verification.",
+  "entriesReviewed": 411,
+  "prescriptionLinesReviewed": 2171,
+  "loadLinesReviewed": 441,
+  "rewrittenLines": [
+    {
+      "id": "wp123780",
+      "field": "prescription",
+      "index": 2
+    },
+    {
+      "id": "wp124382",
+      "field": "prescription",
+      "index": 2
+    },
+    {
+      "id": "wp124384",
+      "field": "prescription",
+      "index": 2
+    },
+    {
+      "id": "wp124229",
+      "field": "prescription",
+      "index": 2
+    },
+    {
+      "id": "wp123947",
+      "field": "prescription",
+      "index": 5
+    },
+    {
+      "id": "wp123868",
+      "field": "prescription",
+      "index": 2
+    },
+    {
+      "id": "wp158225",
+      "field": "prescription",
+      "index": 2
+    },
+    {
+      "id": "wp158227",
+      "field": "prescription",
+      "index": 2
+    },
+    {
+      "id": "wp124361",
+      "field": "prescription",
+      "index": 3
+    },
+    {
+      "id": "wp124361",
+      "field": "loads",
+      "index": 0
+    },
+    {
+      "id": "wp124546",
+      "field": "prescription",
+      "index": 5
+    },
+    {
+      "id": "wp123924",
+      "field": "prescription",
+      "index": 4
+    },
+    {
+      "id": "wp123924",
+      "field": "prescription",
+      "index": 5
+    },
+    {
+      "id": "wp124220",
+      "field": "prescription",
+      "index": 2
+    },
+    {
+      "id": "wp130019",
+      "field": "prescription",
+      "index": 7
+    },
+    {
+      "id": "wp123782",
+      "field": "prescription",
+      "index": 2
+    },
+    {
+      "id": "wp158229",
+      "field": "prescription",
+      "index": 2
+    },
+    {
+      "id": "wp158231",
+      "field": "prescription",
+      "index": 2
+    },
+    {
+      "id": "wp129716",
+      "field": "prescription",
+      "index": 3
+    },
+    {
+      "id": "wp124308",
+      "field": "prescription",
+      "index": 1
+    },
+    {
+      "id": "wp123908",
+      "field": "prescription",
+      "index": 0
+    },
+    {
+      "id": "wp123908",
+      "field": "prescription",
+      "index": 4
+    },
+    {
+      "id": "wp123908",
+      "field": "prescription",
+      "index": 5
+    },
+    {
+      "id": "wp159010",
+      "field": "prescription",
+      "index": 9
+    },
+    {
+      "id": "wp123786",
+      "field": "prescription",
+      "index": 2
+    },
+    {
+      "id": "wp124386",
+      "field": "prescription",
+      "index": 2
+    },
+    {
+      "id": "wp124388",
+      "field": "prescription",
+      "index": 2
+    },
+    {
+      "id": "wp124212",
+      "field": "prescription",
+      "index": 2
+    },
+    {
+      "id": "wp130051",
+      "field": "prescription",
+      "index": 1
+    },
+    {
+      "id": "wp130051",
+      "field": "loads",
+      "index": 1
+    },
+    {
+      "id": "wp129917",
+      "field": "prescription",
+      "index": 4
+    },
+    {
+      "id": "wp123960",
+      "field": "prescription",
+      "index": 4
+    },
+    {
+      "id": "wp129944",
+      "field": "loads",
+      "index": 2
+    },
+    {
+      "id": "wp124231",
+      "field": "prescription",
+      "index": 2
+    },
+    {
+      "id": "wp123870",
+      "field": "prescription",
+      "index": 2
+    },
+    {
+      "id": "wp124435",
+      "field": "prescription",
+      "index": 2
+    },
+    {
+      "id": "wp124438",
+      "field": "prescription",
+      "index": 2
+    },
+    {
+      "id": "wp129994",
+      "field": "prescription",
+      "index": 4
+    },
+    {
+      "id": "wp129988",
+      "field": "prescription",
+      "index": 6
+    },
+    {
+      "id": "wp170673",
+      "field": "prescription",
+      "index": 8
+    },
+    {
+      "id": "wp123968",
+      "field": "prescription",
+      "index": 2
+    },
+    {
+      "id": "wp124216",
+      "field": "prescription",
+      "index": 2
+    },
+    {
+      "id": "wp124373",
+      "field": "prescription",
+      "index": 2
+    },
+    {
+      "id": "wp158147",
+      "field": "prescription",
+      "index": 2
+    },
+    {
+      "id": "wp158152",
+      "field": "prescription",
+      "index": 2
+    },
+    {
+      "id": "wp124380",
+      "field": "prescription",
+      "index": 2
+    },
+    {
+      "id": "wp158134",
+      "field": "prescription",
+      "index": 2
+    },
+    {
+      "id": "wp158137",
+      "field": "prescription",
+      "index": 2
+    },
+    {
+      "id": "wp124375",
+      "field": "prescription",
+      "index": 2
+    },
+    {
+      "id": "wp158139",
+      "field": "prescription",
+      "index": 2
+    },
+    {
+      "id": "wp158145",
+      "field": "prescription",
+      "index": 2
+    },
+    {
+      "id": "wp124377",
+      "field": "prescription",
+      "index": 2
+    },
+    {
+      "id": "wp158130",
+      "field": "prescription",
+      "index": 2
+    },
+    {
+      "id": "wp158132",
+      "field": "prescription",
+      "index": 2
+    },
+    {
+      "id": "wp129667",
+      "field": "loads",
+      "index": 2
+    },
+    {
+      "id": "wp124005",
+      "field": "prescription",
+      "index": 6
+    },
+    {
+      "id": "wp129854",
+      "field": "prescription",
+      "index": 4
+    },
+    {
+      "id": "wp130009",
+      "field": "prescription",
+      "index": 14
+    },
+    {
+      "id": "wp130009",
+      "field": "prescription",
+      "index": 15
+    },
+    {
+      "id": "wp124222",
+      "field": "prescription",
+      "index": 2
+    },
+    {
+      "id": "wp129904",
+      "field": "prescription",
+      "index": 6
+    },
+    {
+      "id": "wp129894",
+      "field": "prescription",
+      "index": 5
+    },
+    {
+      "id": "wp129894",
+      "field": "loads",
+      "index": 0
+    },
+    {
+      "id": "wp129634",
+      "field": "loads",
+      "index": 0
+    },
+    {
+      "id": "wp129646",
+      "field": "prescription",
+      "index": 5
+    },
+    {
+      "id": "wp123810",
+      "field": "prescription",
+      "index": 6
+    },
+    {
+      "id": "wp124210",
+      "field": "prescription",
+      "index": 2
+    },
+    {
+      "id": "wp129781",
+      "field": "prescription",
+      "index": 9
+    },
+    {
+      "id": "wp129935",
+      "field": "loads",
+      "index": 0
+    },
+    {
+      "id": "wp123876",
+      "field": "prescription",
+      "index": 2
+    },
+    {
+      "id": "wp158217",
+      "field": "prescription",
+      "index": 2
+    },
+    {
+      "id": "wp158219",
+      "field": "prescription",
+      "index": 2
+    },
+    {
+      "id": "wp124016",
+      "field": "prescription",
+      "index": 5
+    },
+    {
+      "id": "wp158302",
+      "field": "prescription",
+      "index": 5
+    },
+    {
+      "id": "wp124332",
+      "field": "prescription",
+      "index": 3
+    },
+    {
+      "id": "wp124332",
+      "field": "prescription",
+      "index": 4
+    },
+    {
+      "id": "wp123873",
+      "field": "prescription",
+      "index": 2
+    },
+    {
+      "id": "wp158221",
+      "field": "prescription",
+      "index": 2
+    },
+    {
+      "id": "wp158223",
+      "field": "prescription",
+      "index": 2
+    },
+    {
+      "id": "wp123903",
+      "field": "prescription",
+      "index": 2
+    },
+    {
+      "id": "wp158161",
+      "field": "prescription",
+      "index": 2
+    },
+    {
+      "id": "wp158164",
+      "field": "prescription",
+      "index": 2
+    },
+    {
+      "id": "wp123788",
+      "field": "prescription",
+      "index": 2
+    },
+    {
+      "id": "wp123878",
+      "field": "prescription",
+      "index": 2
+    },
+    {
+      "id": "wp158213",
+      "field": "prescription",
+      "index": 2
+    },
+    {
+      "id": "wp158215",
+      "field": "prescription",
+      "index": 2
+    },
+    {
+      "id": "wp123880",
+      "field": "prescription",
+      "index": 2
+    },
+    {
+      "id": "wp158209",
+      "field": "prescription",
+      "index": 2
+    },
+    {
+      "id": "wp158211",
+      "field": "prescription",
+      "index": 2
+    },
+    {
+      "id": "wp124943",
+      "field": "loads",
+      "index": 0
+    },
+    {
+      "id": "wp129663",
+      "field": "prescription",
+      "index": 7
+    },
+    {
+      "id": "wp129857",
+      "field": "prescription",
+      "index": 6
+    },
+    {
+      "id": "wp129820",
+      "field": "prescription",
+      "index": 2
+    },
+    {
+      "id": "wp123882",
+      "field": "prescription",
+      "index": 2
+    },
+    {
+      "id": "wp158185",
+      "field": "prescription",
+      "index": 2
+    },
+    {
+      "id": "wp158188",
+      "field": "prescription",
+      "index": 2
+    },
+    {
+      "id": "wp129745",
+      "field": "loads",
+      "index": 0
+    },
+    {
+      "id": "wp129813",
+      "field": "prescription",
+      "index": 4
+    },
+    {
+      "id": "wp123898",
+      "field": "prescription",
+      "index": 2
+    },
+    {
+      "id": "wp158180",
+      "field": "prescription",
+      "index": 2
+    },
+    {
+      "id": "wp158183",
+      "field": "prescription",
+      "index": 2
+    },
+    {
+      "id": "wp123900",
+      "field": "prescription",
+      "index": 2
+    },
+    {
+      "id": "wp158175",
+      "field": "prescription",
+      "index": 2
+    },
+    {
+      "id": "wp158178",
+      "field": "prescription",
+      "index": 2
+    },
+    {
+      "id": "wp123784",
+      "field": "prescription",
+      "index": 2
+    },
+    {
+      "id": "wp158167",
+      "field": "prescription",
+      "index": 2
+    },
+    {
+      "id": "wp158170",
+      "field": "prescription",
+      "index": 2
+    },
+    {
+      "id": "wp124214",
+      "field": "prescription",
+      "index": 2
+    },
+    {
+      "id": "wp124208",
+      "field": "prescription",
+      "index": 2
+    },
+    {
+      "id": "wp124139",
+      "field": "prescription",
+      "index": 2
+    },
+    {
+      "id": "wp129877",
+      "field": "prescription",
+      "index": 4
+    },
+    {
+      "id": "wp129961",
+      "field": "loads",
+      "index": 2
+    },
+    {
+      "id": "wp123920",
+      "field": "prescription",
+      "index": 0
+    },
+    {
+      "id": "wp123920",
+      "field": "prescription",
+      "index": 1
+    },
+    {
+      "id": "wp123917",
+      "field": "prescription",
+      "index": 9
+    },
+    {
+      "id": "wp123917",
+      "field": "prescription",
+      "index": 10
+    },
+    {
+      "id": "wp123913",
+      "field": "prescription",
+      "index": 5
+    },
+    {
+      "id": "wp123915",
+      "field": "prescription",
+      "index": 5
+    },
+    {
+      "id": "wp124320",
+      "field": "prescription",
+      "index": 5
+    },
+    {
+      "id": "wp124227",
+      "field": "prescription",
+      "index": 0
+    },
+    {
+      "id": "wp124227",
+      "field": "prescription",
+      "index": 4
+    },
+    {
+      "id": "wp124227",
+      "field": "prescription",
+      "index": 5
+    },
+    {
+      "id": "wp124349",
+      "field": "prescription",
+      "index": 4
+    },
+    {
+      "id": "wp123905",
+      "field": "prescription",
+      "index": 2
+    },
+    {
+      "id": "wp158155",
+      "field": "prescription",
+      "index": 2
+    },
+    {
+      "id": "wp158158",
+      "field": "prescription",
+      "index": 2
+    },
+    {
+      "id": "wp129897",
+      "field": "prescription",
+      "index": 2
+    },
+    {
+      "id": "wp124299",
+      "field": "prescription",
+      "index": 10
+    },
+    {
+      "id": "wp124224",
+      "field": "prescription",
+      "index": 2
+    },
+    {
+      "id": "wp123910",
+      "field": "prescription",
+      "index": 13
+    },
+    {
+      "id": "wp129941",
+      "field": "loads",
+      "index": 0
+    },
+    {
+      "id": "wp124233",
+      "field": "prescription",
+      "index": 2
+    },
+    {
+      "id": "wp129784",
+      "field": "prescription",
+      "index": 4
+    },
+    {
+      "id": "crossfit-daily-2024-05-03",
+      "field": "prescription",
+      "index": 3
+    },
+    {
+      "id": "crossfit-daily-2024-05-03",
+      "field": "prescription",
+      "index": 4
+    },
+    {
+      "id": "crossfit-daily-2024-05-17",
+      "field": "prescription",
+      "index": 4
+    },
+    {
+      "id": "crossfit-daily-2024-06-04",
+      "field": "prescription",
+      "index": 5
+    },
+    {
+      "id": "crossfit-daily-2024-07-01",
+      "field": "prescription",
+      "index": 5
+    },
+    {
+      "id": "crossfit-daily-2024-07-27",
+      "field": "prescription",
+      "index": 3
+    },
+    {
+      "id": "crossfit-daily-2024-09-27",
+      "field": "prescription",
+      "index": 6
+    },
+    {
+      "id": "crossfit-daily-2015-12-06",
+      "field": "prescription",
+      "index": 4
+    },
+    {
+      "id": "crossfit-daily-2015-12-06",
+      "field": "prescription",
+      "index": 5
+    },
+    {
+      "id": "crossfit-daily-2015-12-06",
+      "field": "prescription",
+      "index": 6
+    },
+    {
+      "id": "crossfit-daily-2015-12-10",
+      "field": "prescription",
+      "index": 4
+    },
+    {
+      "id": "crossfit-daily-2015-12-10",
+      "field": "prescription",
+      "index": 5
+    },
+    {
+      "id": "crossfit-daily-2015-12-10",
+      "field": "prescription",
+      "index": 6
+    },
+    {
+      "id": "crossfit-daily-2017-11-07",
+      "field": "prescription",
+      "index": 9
+    },
+    {
+      "id": "crossfit-daily-2017-11-07",
+      "field": "prescription",
+      "index": 10
+    },
+    {
+      "id": "crossfit-daily-2017-11-07",
+      "field": "prescription",
+      "index": 11
+    },
+    {
+      "id": "crossfit-daily-2022-09-19",
+      "field": "prescription",
+      "index": 5
+    },
+    {
+      "id": "crossfit-daily-2022-09-19",
+      "field": "prescription",
+      "index": 6
+    },
+    {
+      "id": "crossfit-daily-2022-09-19",
+      "field": "prescription",
+      "index": 7
+    },
+    {
+      "id": "crossfit-daily-2025-04-08",
+      "field": "prescription",
+      "index": 2
+    },
+    {
+      "id": "crossfit-daily-2025-04-08",
+      "field": "prescription",
+      "index": 3
+    },
+    {
+      "id": "crossfit-daily-2025-04-08",
+      "field": "prescription",
+      "index": 4
+    },
+    {
+      "id": "crossfit-daily-2025-10-28",
+      "field": "prescription",
+      "index": 4
+    },
+    {
+      "id": "crossfit-daily-2025-10-28",
+      "field": "prescription",
+      "index": 5
+    },
+    {
+      "id": "crossfit-daily-2025-10-28",
+      "field": "prescription",
+      "index": 6
+    }
+  ]
+}
