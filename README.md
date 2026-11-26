@@ -20,9 +20,9 @@ Want to give WOD Crew a try? Jump into the Community demo, create your own littl
 
 Just a heads-up: this is a playground, not a permanent training service. Your workouts are saved in the demo, but your browser holds the key to your space. If you clear your browser data or switch devices, you may lose access to your previous workouts — even with the same name.
 
-Like it? Grab the source and build your own WOD Crew to train with your friends!
+Like it? Grab the source code and build your own WOD Crew to train with your friends!
 
-Use this project as a starting point for **your own crew, your own workouts, and your own app** with ChatGPT Work.
+Use this project as a starting point for **your own crew, your own workouts, and your own app** with ChatGPT Work or Codex.
 
 ![The WOD Crew Community Playground welcome screen, where you choose a name to start your demo space](docs/images/community-playground-onboarding.jpg)
 
