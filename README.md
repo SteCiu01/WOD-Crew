@@ -6,11 +6,11 @@
 
 ## Why I built WOD Crew
 
-I’m Italian and live in Poland, while my friends are in Italy. We share a passion for fitness, but training together across countries isn’t easy.
+I’m an Italian and live in Poland, while many of friends are in Italy. We share a passion for crossfit, but training together across countries isn’t easy.
 
 I started WOD Crew as a personal project so we could share workouts and keep each other going. AI-assisted development helped me turn that idea into something real. I think AI skills can be useful for more than our jobs — sometimes they help us build something personal that makes life a little better.
 
-I’m sharing the source so other friends can build a space of their own.
+I’m sharing the source code so other friends can build a space of their own.
 
 ## WOD Crew — Community Playground
 
