@@ -6,7 +6,7 @@
 
 ## Why I built WOD Crew
 
-I’m Italian and I live in Poland, while many of friends are in Italy. We share a passion for crossfit, but training together across countries isn’t easy.
+I’m Italian and I live in Poland, while many of my friends are in Italy. We share a passion for CrossFit, but training together across countries isn’t easy.
 
 I started WOD Crew as a personal project so we could share workouts and keep each other going. AI-assisted development helped me turn that idea into something real. I think AI skills can be useful for more than our jobs — sometimes they help us build something personal that makes life a little better.
 
@@ -106,13 +106,15 @@ One tap and you’re ready to train. Open your crew’s **published Site link** 
 
 The Home Screen icon opens your published **ChatGPT Site**. It’s still a website, with the same access controls. You’ll need an internet connection to load workouts and save results.
 
-## Make it yours with ChatGPT Work
+## Make it yours with ChatGPT Work or Codex
 
-Connect this repository in ChatGPT Work and use this prompt:
+Open this repository with ChatGPT Work or Codex and use this prompt:
 
 > Use `source/` as the starting point for a new, independent WOD Crew app. Read `source/README.md` first. Keep the workout builder, timer, crew, results, and statistics. Create a NEW Site with its own project ID and a NEW D1 database bound as DB. Replace the placeholder in `source/.openai/hosting.json` with the newly returned Site ID. Apply all six SQL migrations in `source/drizzle/` in order to the new database. Start empty, or use `source/examples/demo-seed.sql` for fictional demo content only. Install the pinned dependencies, run the existing tests, build, and let me preview it before publishing. Do not reuse or access the original WOD Crew Site, database, credentials, or users.
 
-Sites availability and deployment depend on your ChatGPT Work account. This is a source project to scaffold from, not a one-click installer.
+You can also use this source with Claude, GitHub Copilot, or another AI coding assistant, though running it outside ChatGPT Sites may require adapting the hosting, database, and authentication.
+
+Sites availability and deployment depend on your account and available tools. This is a source project to scaffold from, not a one-click installer.
 
 **[Browse the full source →](source/)** · **[Setup and folder structure →](source/README.md)** · **[Database schema →](source/db/schema.ts)**
 

@@ -17,15 +17,15 @@ This is the source code for the WOD Crew app I built for my friends. You can use
 | [`build/`](build/), [`scripts/`](scripts/) | Sites/Vinext build and local runtime support |
 | [`.openai/hosting.json`](.openai/hosting.json) | DB binding and a placeholder for your NEW Site ID |
 
-## Start with ChatGPT Work
+## Start with ChatGPT Work or Codex
 
-Use the prompt in the [main README](../README.md#make-it-yours-with-chatgpt-work). Work from this `source/` directory: the app is not at the repository root.
+Use the prompt in the [main README](../README.md#make-it-yours-with-chatgpt-work-or-codex). Work from this `source/` directory: the app is not at the repository root.
 
-Ask Work to create a **new Site** and provision a fresh D1 database bound as `DB`. In `.openai/hosting.json`, replace `REPLACE_WITH_YOUR_NEW_SITE_ID` with the Site ID returned by Work. Keep the `d1` binding as it is.
+Ask ChatGPT Work or Codex to create a **new Site** and provision a fresh D1 database bound as `DB`. In `.openai/hosting.json`, replace `REPLACE_WITH_YOUR_NEW_SITE_ID` with the Site ID returned by the agent. Keep the `d1` binding as it is.
 
 Apply `drizzle/0000_steady_the_hood.sql` through `drizzle/0005_swift_puma.sql`, in filename order, to the new database. These files contain schema only, not a database export. The app can start empty: add your own crew members and workouts through the UI. The optional seed is entirely fictional and should be used only on a fresh demo database.
 
-Have Work check the fresh database, run the tests, build, and preview your copy before publishing.
+Have the agent check the fresh database, run the tests, build, and preview your copy before publishing.
 
 Once your own Site is published, open its link in Safari on iPhone or Chrome on Android and [add it to your Home Screen](../README.md#pro-tip-put-wod-crew-on-your-home-screen). Your crew gets an icon for quick access while the app remains hosted on ChatGPT Sites; a separate native app is not required.
 
